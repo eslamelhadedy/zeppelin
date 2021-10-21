@@ -131,15 +131,15 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Tickets Registration"
+#ticketsTitle: "Tickets Registration"
 ticketsInfo: "Tickets are not availabe yet."
 #Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price.
 #ticketsOffers:
 # -
-  name: "Early Bird"
-  price: "XXX"
-  priceCurrency: "USD"
-  ticketsNumber: "150"
+#  name: "Early Bird"
+#  price: "XXX"
+#  priceCurrency: "USD"
+#  ticketsNumber: "150"
 #  ribbon: "-5%"
 #  buyButtonLink: "http://dfua.ticketforevent.com/"
 #  buyButtonText: "Buy Now"
@@ -147,12 +147,12 @@ ticketsInfo: "Tickets are not availabe yet."
 #  validFrom: "2014-08-25T10:00"
 #  validThrough: "2014-09-30T23:59"
 # -
-  name: "Last Chance"
-  price: "XXX"
-  priceCurrency: "USD"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
+#  name: "Last Chance"
+#  price: "XXX"
+#  priceCurrency: "USD"
+#  ticketsNumber: "100"
+#  ribbon: "-20%"
+#  featured: true
 #  buyButtonLink: "http://dfua.ticketforevent.com/"
 #  buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -160,13 +160,13 @@ ticketsInfo: "Tickets are not availabe yet."
 #  validThrough: "2014-10-23T23:59"
 #  disabled: true
 # -
-  name: "Student"
-  price: "XXX"
-  priceCurrency: "USD"
-  ticketsNumber: "50"
+#  name: "Student"
+#  price: "XXX"
+#  priceCurrency: "USD"
+#  ticketsNumber: "50"
 #  buyButtonLink: "http://dfua.ticketforevent.com/"
 #  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
 #  validFrom: "2014-08-20T10:00"
 #  validThrough: "2014-10-23T23:59"
