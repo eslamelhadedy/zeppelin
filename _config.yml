@@ -152,7 +152,7 @@ ticketsInfo: "Tickets are not availabe yet."
   priceCurrency: "USD"
   ticketsNumber: "100"
   ribbon: "-20%"
-#  featured: true
+  featured: true
 #  buyButtonLink: "http://dfua.ticketforevent.com/"
 #  buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
