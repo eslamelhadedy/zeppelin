@@ -77,7 +77,7 @@ statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure technical cyber security technologies"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "5", specialCharacter: "", info: "practical workshops", detail: "hands-on with security professionals"}
+ - {count: "5", specialCharacter: "+", info: "practical workshops", detail: "hands-on with security professionals"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
