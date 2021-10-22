@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "<typeout>"
 eventDate: "June, 2022"
-typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh"'
+typeoutTextValues: '"", "BSides Cairo 2022","Awakening The Hacker Pharaoh!"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
