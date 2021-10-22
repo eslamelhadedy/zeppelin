@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "The GrEEK Campus"
-venueFeatures: ["Huge conference hall with full of services campus", "Cairo’s first technology and innovation park in the heart of Egypt."]
+venueFeatures: ["Huge conference hall with full of services campus","Seperate rooms for side discussions and workshops", "Cairo’s first technology and innovation park in the heart of Egypt."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
