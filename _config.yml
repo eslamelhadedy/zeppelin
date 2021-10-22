@@ -67,17 +67,17 @@ heroButtons:
 # About Block
 aboutTitle: "About BSides Cairo"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "CTF", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest BSides event in the country carefully crafted for you by the professional InfoSec community! Awesome pure technical talks and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite topics with talented security professionals!" }
+ - {title: "CTF", image: "hackathon.jpg", text: "Full-day realistic security challenges! Want some real team hacking on friday? Grab your team and join our CTF!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure technical cyber security technologies"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "5", specialCharacter: "", info: "practical workshops", detail: "hands-on with security professionals"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "The GrEEK Campus"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Huge conference hall with full of services campus", "Cairo’s first technology and innovation park in the heart of Egypt."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
