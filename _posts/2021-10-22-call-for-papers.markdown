@@ -11,12 +11,12 @@ BSides Cairo will be held 24-25th of June in the ancient city of Cairo. If you w
 #### Your hacker talk can be as one of the following formats:
 
 -  light talk: **15 min**
-- Short talk: **30 min**
+-  Short talk: **30 min**
 -  Long talk: **45 min**
 -  Customized talk.
 
 
-
+<br>
 ##### Stage discussions:
 
 We loved the event format of BSides Zurich, where, after each talks session, speakers move to separate rooms where attendees who are interested in their talks can join them and engage in active discussions along with snacks and coffee. And this year we give all attendees chance to ask and engage with speakers as stage discussions at the same hall.
