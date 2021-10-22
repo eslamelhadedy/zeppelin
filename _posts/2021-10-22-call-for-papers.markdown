@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2021-10-22 17:48:00
+date:   2021-11-01 17:48:00
 isStaticPost: false
 ---
 BSides Cairo will be held 24-25th of June in the ancient city of Cairo. If you want to be part of this great event as a speaker you knocked at the correct door.
