@@ -15,8 +15,8 @@
     #- {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
+  name: "Nidal Fikri"
+  surname: "Nidal Fikri"
   title: "Designer and Web Developer"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
@@ -24,20 +24,21 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
+  name: "Eslam Elhadedy"
+  surname: "Eslam Elhadedy"
+  title: "Meetoor Manager"
   thumbnailUrl: OstapAndrusiv.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/eslamelhadedy50"}
+    - {name: "Meetoor", link: "https://meetoor.com/home/profile/?p=eslamelhadedy"}
 - 
   id: 4
   name: "Dmytro"
