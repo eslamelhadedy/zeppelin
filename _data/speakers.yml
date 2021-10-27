@@ -46,7 +46,41 @@
     - {name: "twitter", link: "https://twitter.com/banyrock"}
 - 
   id: 7
-  name: "Valentyn"
+  name: "Nidal Fikri"
+  surname: "Nidal Fikri"
+  company: "Twinfield, GDG Kyiv"
+  title: "Brute-Forcing Mighty Dark Castles"
+  bio: "Electrical Engineering student and ACM ICPC problem solver since 2016. I find my passion in reverse engineering doing malware analysis and exploitation development. True competitions team player, I’ve achieved top ranks in Egyptian CTFs as well as winning CyVentuers : the first cyber security hackathon developing anti-ransomware solution while snatching the 15K dollars funding."
+  thumbnailUrl: Nidal.jpg
+  rockstar: true
+
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+
+  id: 8
+  name: "Nidal Fikri"
+  surname: "Nidal Fikri"
+  company: "Twinfield, GDG Kyiv"
+  title: "Brute-Forcing Mighty Dark Castles"
+  bio: "Electrical Engineering student and ACM ICPC problem solver since 2016. I find my passion in reverse engineering doing malware analysis and exploitation development. True competitions team player, I’ve achieved top ranks in Egyptian CTFs as well as winning CyVentuers : the first cyber security hackathon developing anti-ransomware solution while snatching the 15K dollars funding."
+  thumbnailUrl: Nidal.jpg
+  rockstar: true
+
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+  id: 9
+  name: "Nidal Fikri"
+  surname: "Nidal Fikri"
+  company: "Twinfield, GDG Kyiv"
+  title: "Brute-Forcing Mighty Dark Castles"
+  bio: "Electrical Engineering student and ACM ICPC problem solver since 2016. I find my passion in reverse engineering doing malware analysis and exploitation development. True competitions team player, I’ve achieved top ranks in Egyptian CTFs as well as winning CyVentuers : the first cyber security hackathon developing anti-ransomware solution while snatching the 15K dollars funding."
+  thumbnailUrl: Nidal.jpg
+  rockstar: true
+
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+  id: 10
+  name: "Nidal Fikri"
   surname: "Nidal Fikri"
   company: "Twinfield, GDG Kyiv"
   title: "Brute-Forcing Mighty Dark Castles"
