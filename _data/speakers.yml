@@ -8,60 +8,51 @@
   thumbnailUrl: AllanLiska.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://twitter.com/uuallan"}
+    - {name: "twitter", link: "https://twitter.com/uuallan"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Hunt Evil"
+  surname: "Mohamed Sadat"
+  company: " "
+  title: " Information Security Manager "
+  bio: 'Mohamed Sadat is an Information Security Expert with over 10 years of experiences in financial and IT corporations. He started his career path as a red teamer engaged in many penetration test and security assessments. Then he decided to switch to blue team side continue his career path in incident handling, forensic investigation and threat hunting. His areas of experience also include risk assessment, Business constitute, Threat Modeling, designing and implementing secure infrastructure and Governance, risk and compliance (GRC).'
+  thumbnailUrl: sadat.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "github", link: "https://www.linkedin.com/in/mohamedsadat/"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
+  name: "Abdulrahman Al-Nimari"
+  surname: "Abdulrahman Al-Nimari"
   company: "Base CRM, GDG Krakow"
   title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  bio: "Abdulrahman Al-Nimari is a self motivated renowned cyber security expert and a frequent conference speaker. Al-Nimari spend his time breaking, fixing, teaching, consulting and architecting security stuff. He has more than 25 years experience, with 15 of them in cyber security concentration. He played many roles in different IT and Cyber Security fields in both public and private sectors. His specialties and areas of interests include DFIR, Penetration Testing, Cyber Security consulting and Architecting. Awarded the Arab Cyber Security Social Networks Influencer for 2019."
+  thumbnailUrl: _Abdulrahman.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/nimari"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Mohammad Khreesha"
+  surname: "Mohammad Khreesha"
+  company: ""
+  title: "The Good, the Bad, and the Ugly in Integrating AI with Cyber Security"
+  bio: "Mohammad Khreesha is a cybersecurity consultant from Jordan with 13+ years of experince. Mohammad deliver workshops, talks, and trainings on cybersecurity in Jordan, UAE, Egypt, Kosovo and other countries. His research interests in digital forensics, malware analysis, web & network security and their integration with AIHe acts as a leader for OWASP Amman chapter and he is the founder of JISCTF which is the first CTF in Jordan with more 150+ yearly participants. He has a YouTube channel in which he publishes training courses and tips in Cybersecurity field to feed the Arabic content on the internet."
+  thumbnailUrl: Mohammad.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "twitter", link: "https://twitter.com/banyrock"}
 - 
   id: 7
   name: "Valentyn"
-  surname: "Shybanov"
+  surname: "Nidal Fikri"
   company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  title: "Brute-Forcing Mighty Dark Castles"
+  bio: "Electrical Engineering student and ACM ICPC problem solver since 2016. I find my passion in reverse engineering doing malware analysis and exploitation development. True competitions team player, I’ve achieved top ranks in Egyptian CTFs as well as winning CyVentuers : the first cyber security hackathon developing anti-ransomware solution while snatching the 15K dollars funding."
+  thumbnailUrl: Nidal.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
