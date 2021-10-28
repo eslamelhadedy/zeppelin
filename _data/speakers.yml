@@ -76,9 +76,9 @@
   bio: "Fan of tech and cybersecurity, ISECOM OSSTMM instructor, trainer for security courses, speaker, researcher. Almost 10 years in the cybersecurity world. During recent years, he has specialized in payment systems EMV, NFC, POS, ATM. Currently, the director of R&D LATAM at Dreamlab Technologies."
   thumbnailUrl: JavierPerez.png
   rockstar: true
-Nidal Fikri
   social: 
-    - {name: "twitter", link: "https://twitter.com/mu5ash1"}
+      - {name: "twitter", link: "https://twitter.com/mu5ash1"}
+      
   id: 10
   name: "Ahmed Nabil"
   surname: "Ahmed Nabil"
