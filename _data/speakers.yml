@@ -58,35 +58,35 @@
     - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
 
   id: 8
-  name: "Nidal Fikri"
-  surname: "Nidal Fikri"
-  company: "Twinfield, GDG Kyiv"
-  title: "Brute-Forcing Mighty Dark Castles"
-  bio: "Electrical Engineering student and ACM ICPC problem solver since 2016. I find my passion in reverse engineering doing malware analysis and exploitation development. True competitions team player, I’ve achieved top ranks in Egyptian CTFs as well as winning CyVentuers : the first cyber security hackathon developing anti-ransomware solution while snatching the 15K dollars funding."
-  thumbnailUrl: Nidal.jpg
+  name: "Eslam Salem"
+  surname: "Eslam Salem"
+  company: " "
+  title: "Dive into the serverless security"
+  bio: "Developer, security evangelist and CEO & founder of Shieldfy. 13+ years of experience in web development. Worked as a developer, team leader, security consultant at many companies in Egypt, Qatar, UAE and Canada. Founded Shieldfy, a security platform for developers."
+  thumbnailUrl: Eslam.jpg
   rockstar: true
 
   social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "twitter", link: "https://twitter.com/itcalls_anabil"}
   id: 9
-  name: "Nidal Fikri"
-  surname: "Nidal Fikri"
-  company: "Twinfield, GDG Kyiv"
-  title: "Brute-Forcing Mighty Dark Castles"
-  bio: "Electrical Engineering student and ACM ICPC problem solver since 2016. I find my passion in reverse engineering doing malware analysis and exploitation development. True competitions team player, I’ve achieved top ranks in Egyptian CTFs as well as winning CyVentuers : the first cyber security hackathon developing anti-ransomware solution while snatching the 15K dollars funding."
-  thumbnailUrl: Nidal.jpg
+  name: "Javier Perez"
+  surname: "Javier Perez"
+  company: " "
+  title: "Point of Sales: Hacking and crime"
+  bio: "Fan of tech and cybersecurity, ISECOM OSSTMM instructor, trainer for security courses, speaker, researcher. Almost 10 years in the cybersecurity world. During recent years, he has specialized in payment systems EMV, NFC, POS, ATM. Currently, the director of R&D LATAM at Dreamlab Technologies."
+  thumbnailUrl: JavierPerez.png
   rockstar: true
-
+Nidal Fikri
   social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "twitter", link: "https://twitter.com/mu5ash1"}
   id: 10
-  name: "Nidal Fikri"
-  surname: "Nidal Fikri"
-  company: "Twinfield, GDG Kyiv"
-  title: "Brute-Forcing Mighty Dark Castles"
-  bio: "Electrical Engineering student and ACM ICPC problem solver since 2016. I find my passion in reverse engineering doing malware analysis and exploitation development. True competitions team player, I’ve achieved top ranks in Egyptian CTFs as well as winning CyVentuers : the first cyber security hackathon developing anti-ransomware solution while snatching the 15K dollars funding."
-  thumbnailUrl: Nidal.jpg
+  name: "Ahmed Nabil"
+  surname: "Ahmed Nabil"
+  company: " "
+  title: "Moving to the cloud – Different security challenge"
+  bio: "Ahmed Nabil has more than 17 years of experience in the field of Information Technology/Systems, Infrastructure, Project Management, Information Security, Application development/Automation, IT management and holds several professional IT certifications. Ahmed is an industry expert in Information Security and Digital Transformation, public speaker at several international conferences (Microsoft Ignite the Tour, ITCamp Cluj, CISO Africa Summit, Egypt CSCAMP, SharePoint Saturdays, CloudWeekend…..etc.) and author of several articles published in different international security magazines. Ahmed Nabil graduated in 2000 with a BS in Electrical and Control Engineering. He is currently the Global Chief Architect at one of the top Oil and Gas companies in the world. Ahmed was awarded the Microsoft Most Valuable Professional Award in Enterprise security/Cloud and Data Center Management for 7 years in row from 2013 to 2020 for his exceptional knowledge sharing and community leadership in Egypt."
+  thumbnailUrl: Nabil.png
   rockstar: true
 
   social: 
-    - {name: "twitter", link: "https://twitter.com/cyber_anubis"}
+    - {name: "twitter", link: "https://twitter.com/itcalls_anabil"}
